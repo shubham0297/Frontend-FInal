@@ -1,0 +1,99 @@
+{
+  "bloodDonors": [
+    {
+      "id": 101,
+      "donorName": "Ramesh",
+      "bloodGroup": "opos",
+      "phoneNumber": 12932,
+      "lastDonated": "2019-05-12"
+    },
+    {
+      "id": 101,
+      "donorName": "Rajesh",
+      "bloodGroup": "abneg",
+      "phoneNumber": 1293122,
+      "lastDonated": "2019-05-12"
+    },
+    {
+      "id": 101,
+      "donorName": "Rakesh",
+      "bloodGroup": "opos",
+      "phoneNumber": 1293322,
+      "lastDonated": "2019-05-12"
+    },
+    {
+      "id": "109",
+      "donorName": "",
+      "bloodGroup'": "",
+      "phoneNumber": 0,
+      "lastDonated": "",
+      "donoName": "Surya"
+    }
+  ],
+  "bloodCamp" : [
+      {
+          "title":"camp1",
+          "start":"11-02-2222",
+          "end":"11-02-2222",
+          "startTime":"9:00am",
+          "endTime":"9:00pm",
+          "venue":"SSdDASD"
+      },
+
+
+      {
+           
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      },
+      {
+         
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      },
+      {
+         
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      },
+      {
+           
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      },
+      {
+         
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      },
+      {
+         
+        "title":"camp1",
+        "start":"11-02-2222",
+        "end":"11-02-2222",
+        "startTime":"9:00am",
+        "endTime":"9:00pm",
+        "venue":"SSdDASD"
+      }
+  ] 
+} 

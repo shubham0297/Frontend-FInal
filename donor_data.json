@@ -1,0 +1,26 @@
+{
+  "donorList": [
+    {
+      "donor_id": 0,
+      "donor_name": "Prash",
+      "dob": "",
+      "blood_group": "",
+      "phone_number": 0,
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "pincode": 0,
+        "line": ""
+      },
+      "donor_availablity": true,
+      "email": "prashanth21081997@gmail.com",
+      "effective_date": ""
+    }
+      
+     
+  
+    
+    
+  ]
+}

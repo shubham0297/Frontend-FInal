@@ -1,0 +1,29 @@
+.checkavailability_wrapper{
+
+}
+label {  width: 300px;  
+    text-align: center;
+
+     /* color:#d73421; */
+    text-transform: uppercase;
+    font-family: 'HelveticaNeue-Bold'!important;
+    font-size: 24px;
+    font-weight: bold; }
+#idblood{
+    max-width: 300px;
+    float: center;
+    
+}
+#location{
+    max-width: 300px;
+}
+    /* .abc
+    {
+        padding-top: 2cm;
+    padding-bottom: 3cm;
+    padding-left: 300px;
+    padding-right: 15px;
+    } */
+
+    
+
